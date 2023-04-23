@@ -1,0 +1,15 @@
+C:\Users\Пользователь\dotnetnetnet\bin\Debug\net7.0\dotnetnetnet.exe
+C:\Users\Пользователь\dotnetnetnet\bin\Debug\net7.0\dotnetnetnet.deps.json
+C:\Users\Пользователь\dotnetnetnet\bin\Debug\net7.0\dotnetnetnet.runtimeconfig.json
+C:\Users\Пользователь\dotnetnetnet\bin\Debug\net7.0\dotnetnetnet.dll
+C:\Users\Пользователь\dotnetnetnet\bin\Debug\net7.0\dotnetnetnet.pdb
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.csproj.AssemblyReference.cache
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.AssemblyInfoInputs.cache
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.AssemblyInfo.cs
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.dll
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\refint\dotnetnetnet.dll
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.pdb
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\dotnetnetnet.genruntimeconfig.cache
+C:\Users\Пользователь\dotnetnetnet\obj\Debug\net7.0\ref\dotnetnetnet.dll
